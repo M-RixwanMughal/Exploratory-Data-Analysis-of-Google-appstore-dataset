@@ -1,0 +1,29 @@
+## Question and Aswers:
+
+• What are the top 10 Categories that are installed from the Google Play Store ?
+
+    Sol ( Check category on the bases of installs, sort the results in descending order )
+
+• Which are the Categories that are getting installed the most in top 10 Categories?
+
+    Sol ( Keep the first 10 records from first questions relusts )
+
+• What is the higest rated Category?
+
+    Sol ( Check the category on the bases of rating uning Value_count() method )
+
+• Which Category has the highest Paid and Free apps?
+
+    Sol ( Check category for both free and paid apps )
+
+• How does the size of the Application impacts the Installation ?
+
+    Sol ( Find Corr and R^2 error )
+
+• What are the Top 5 Paid Apps based With highest ratings and installs?
+
+    Sol ( filter paid apps on the bases of ratings and installs in descending order )
+
+• What are the Top 5 Free Apps based With highest ratings and installs?
+
+    Sol ( filter free apps on the bases of ratings and installs in descending order )
